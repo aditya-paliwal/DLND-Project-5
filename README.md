@@ -15,11 +15,11 @@ Further Steps involved:
 
 - The given dataset was preprocessed.
 - Built the network by implementing various functions:
---> model_inputs
---> discriminator
---> generator
---> model_loss
---> model_opt
+--> model_inputs,
+--> discriminator,
+--> generator,
+--> model_loss,
+--> model_opt,
 --> train
 - Obtained results in the form of new faces.
 
