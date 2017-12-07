@@ -26,10 +26,10 @@ Further Steps involved:
 
 ### Topics Covered
 
-Following topics were covered for writing effective code for this project
+Following topics were covered for effective implementation of this project
 - Autoencoders
 - Generative Adversarial Network (GAN)
-- Deep COnvolutional GAN
+- Deep Convolutional GAN
 
 ### Prerequisites
 
