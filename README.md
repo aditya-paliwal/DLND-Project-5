@@ -9,6 +9,7 @@ This was my last project in 17-week Udacity Deep Learning Nanodegree Foundation.
 Two datasets were provided for the implementation this project:
 - MNIST
 - CelebA
+
 Since the celebA dataset is complex and I did GANs in a project for the first time, the Udacity suggested to test the neural network on MNIST before CelebA.
 
 Further Steps involved:
